@@ -3,18 +3,18 @@
 
  
 
-<h1 align="center"> Practica 18 👇</h1>
+<h1 align="center"> Practica 06👇</h1>
 <p align="center"> creacion de aplicacion de stateless utilizando car, container y widgets</p>
 
 
 ## Objetivo
-
-///////////editar//////
-
+- El objetivo de esta práctica es hacer uso del widget stateless, cards y containers
 
 ## Resultados
 
-- //////////editar////////
+- Estructura del código 
+- Los resultados obtenidos:  creación de 3 containers, con el uso de 3 botones diferentes con un texto diferente a cada uno
+
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/77856988/193708053-9d3bead8-1da7-4c05-b964-9044ea04ff7b.png"width="70%"/></p>
